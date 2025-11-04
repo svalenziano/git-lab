@@ -17,9 +17,9 @@ mkdir -p bikes doggos
 touch bikes/gertrude.txt bikes/greta.txt doggos/hanna.md doggos/luna.md readme.md
 git add .
 git commit -m "Initial commit"
+source ../multiple-commits.sh
 git remote add origin ../remote
 git push -u origin main   # pushes 'main' branch to origin
-git status
 popd
 
 # setup local2

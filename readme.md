@@ -18,13 +18,14 @@ You can then use the included scripts or standard shell commands to modify your 
 In addition to the sources mentioned within the Anki deck, these sources were heavily referenced:
 - https://git-scm.com/cheat-sheet
 - https://wizardzines.com/comics/git-cheat-sheet/
-- https://launchschool.com/books/git
+- https://wizardzines.com/zines/oh-shit-git/
+- [github cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ## Contributing
 Catch any errors or have any suggestions?  Submit an issue or pull request :)
 
 ## Other stuff you might like:
-- [github cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- https://launchschool.com/books/git  A gentle intro for complete newbies
 - [oh shit git](https://ohshitgit.com/)
 - [Seth Robertson's choose-your-own-adventure](https://sethrobertson.github.io/GitFixUm/fixup.html)
 - [learn git branching](https://learngitbranching.js.org/)
