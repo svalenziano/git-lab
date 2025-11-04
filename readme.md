@@ -4,7 +4,7 @@ A few simple scripts and some flashcards to practice Git foundations.
 ## How does it work?
 ```bash
 git clone [url of this repo]
-rm .git`  # do this to avoid nested git repos
+rm .git` -r -f  # do this to avoid nested git repos
 source setup.sh  
 ```
 
