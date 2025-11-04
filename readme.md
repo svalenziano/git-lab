@@ -22,3 +22,10 @@ In addition to the sources mentioned within the Anki deck, these sources were he
 
 ## Contributing
 Catch any errors or have any suggestions?  Submit a pull request :)
+
+## Other stuff you might like:
+- [github cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- [oh shit git](https://ohshitgit.com/)
+- [Seth Robertson's choose-your-own-adventure](https://sethrobertson.github.io/GitFixUm/fixup.html)
+- [learn git branching](https://learngitbranching.js.org/)
+- [Oh My Git!](https://ohmygit.org/)
