@@ -7,7 +7,7 @@ The `.apkg` file(s) are "Anki Deck Packages" which can be imported into Anki.
 
 ## How does it work?
 ```bash
-git clone [url of this repo]
+git clone https://github.com/svalenziano/git-lab
 rm .git` -r -f  # do this to avoid nested git repos
 source setup.sh  
 ```
