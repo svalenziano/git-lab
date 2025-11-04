@@ -1,5 +1,9 @@
 # A very simple Git playground
-A few simple scripts and some flashcards to practice Git foundations.
+A few simple scripts and some Anki flashcards to practice Git foundations.
+
+Intention: help you store git commands in your long term memory, reinforce your mental models, and potentially expose holes in your knowledge.  This repo is NOT intended to be an "Intro to Git" resource.
+
+The `.apkg` file(s) are "Anki Deck Packages" which can be imported into Anki.
 
 ## How does it work?
 ```bash
@@ -15,3 +19,6 @@ In addition to the sources mentioned within the Anki deck, these sources were he
 - https://git-scm.com/cheat-sheet
 - https://wizardzines.com/comics/git-cheat-sheet/
 - https://launchschool.com/books/git
+
+## Contributing
+Catch any errors or have any suggestions?  Submit a pull request :)
