@@ -21,7 +21,7 @@ In addition to the sources mentioned within the Anki deck, these sources were he
 - https://launchschool.com/books/git
 
 ## Contributing
-Catch any errors or have any suggestions?  Submit a pull request :)
+Catch any errors or have any suggestions?  Submit an issue or pull request :)
 
 ## Other stuff you might like:
 - [github cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
