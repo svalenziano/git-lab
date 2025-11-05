@@ -17,6 +17,8 @@ You can then use the included scripts or standard shell commands to modify your 
 ## Sources
 In addition to the sources mentioned within the Anki deck, these sources were heavily referenced:
 - https://git-scm.com/cheat-sheet
+- https://git-scm.com/docs
+- https://git-scm.com/book/en/v2
 - https://wizardzines.com/comics/git-cheat-sheet/
 - https://wizardzines.com/zines/oh-shit-git/
 - [github cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
@@ -28,5 +30,7 @@ Catch any errors or have any suggestions?  Submit an issue or pull request :)
 - https://launchschool.com/books/git  A gentle intro for complete newbies
 - [oh shit git](https://ohshitgit.com/)
 - [Seth Robertson's choose-your-own-adventure](https://sethrobertson.github.io/GitFixUm/fixup.html)
-- [learn git branching](https://learngitbranching.js.org/)
+- https://learngitbranching.js.org
 - [Oh My Git!](https://ohmygit.org/)
+- [Git for beginners: The definitive practical guide](https://stackoverflow.com/q/315911/12860895) (StackOverflow)
+- [Resources to learn Git](https://try.github.io) (GitHub)
